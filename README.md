@@ -10,7 +10,7 @@ Hey there! I'm Sprunglicious, a passionate software enthusiast and open-source a
 
 ## Get Involved!
 
-If you're interested in the world of Linux and open-source software, I encourage you to check out the [XeroLinux Community Editions](https://xerolinux.xyz) project. Feel free to explore the codebase, try out the distribution, and join our community discussions. Whether you're a developer, a designer, a tester, or simply someone passionate over on [Discord](https://discord.gg/7jNFFHV4) or [Matrix](https://matrix.to/#/#Xerolinux:matrix.org).
+If you're interested in the world of Linux and open-source software, I encourage you to check out the [XeroLinux Super Secret Project](https://xerolinux.xyz) project. Feel free to explore the codebase, try out the distribution, and join our community discussions. Whether you're a developer, a designer, a tester, or simply someone passionate over on [Discord](https://discord.gg/7jNFFHV4) or [Matrix](https://matrix.to/#/#Xerolinux:matrix.org).
 
 Thank you for visiting my GitHub profile, and I hope you find my contributions meaningful. Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate on any exciting open-source projects!
 
